@@ -1,6 +1,6 @@
 # ExplainAIHub: AI Explanations, Simplified
 
-> **Advanced AI Explanations, Simplified**  
+> **AI Explanations, Simplified**  
 >
 > ExplainAIHub is a Python framework that unifies and streamlines explainability for machine learning models. By integrating multiple XAI tools under a common schema and leveraging LLM-powered summarization, it delivers clear, structured insights—both as static reports and conversational dialogues.
 
@@ -51,7 +51,7 @@ _Planned in next releases:_
 
 Future enhancements include:
 
-1. **Broader XAI tool support (Add based on planned) **.
+1. Broader XAI tool support (Add based on planned).
 2. More sophisticated SEIS schema (V2, V3) to capture even richer details (e.g., confidence        intervals, specific plot types).
 3. Advanced multi-tool synthesis logic in the LLM prompts.
 4. More robust parsing of transformed feature names back to raw features.
@@ -90,7 +90,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-5. Read the example usage. 
+5. Read and run the example usage. 
 ```bash
-example_usage.py
+python example_usage.py
 ```
