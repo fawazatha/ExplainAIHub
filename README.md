@@ -1,4 +1,4 @@
-# ExplainAIHub: Advanced AI Explanations, Simplified
+# ExplainAIHub: AI Explanations, Simplified
 
 > **Advanced AI Explanations, Simplified**  
 >
